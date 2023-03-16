@@ -1,0 +1,5 @@
+Sıra	Kitap adı	Yazar
+1	Yabancı	Albert Camus
+2	Kayıp Zamanın İzinde	Marcel Proust
+3	Dava	Franz Kafka
+4	Küçük Prens	Antoine de Saint-Exupér
